@@ -62,5 +62,5 @@ def display_output(output):
                 print(f"Unsupported output type: {output_type}")
 
 if __name__ == "__main__":
-    notebook_path = 'name.ipynb'  # Update this path to your notebook
+    notebook_path = 'test.ipynb'  # Update this path to your notebook
     execute_notebook_and_save_with_output(notebook_path)
